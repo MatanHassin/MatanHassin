@@ -28,7 +28,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React-Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-  ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=AngularJS)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=764abc)
 
@@ -63,7 +63,7 @@
 
 - 🎿 Hobbies other than coding : Playing basketball 🏀, listening to great music🎵 and podcasts, Playing Call Of Duty MW and Playing StarCraft 2.
 - 📫 How to reach me: matan18061806@gmail.com
-- 📝 [Resume]()
+- 📝 [Resume](https://www.dropbox.com/s/bf4erz6phctjjn8/Matan%20Hassin%20-%20CV.pdf?dl=0)
 <br />
 
 ### 📝 Connect with me 
